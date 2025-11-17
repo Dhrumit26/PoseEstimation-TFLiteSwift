@@ -356,7 +356,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
 				LastUpgradeCheck = 1130;
-				ORGANIZATIONNAME = "Doyoung Gwak";
+				ORGANIZATIONNAME = "Dhrumit26";
 				TargetAttributes = {
 					7105C911241CE9B5001A4325 = {
 						CreatedOnToolsVersion = 11.3.1;
@@ -675,7 +675,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.tucan9389.PoseEstimation-TFLiteSwift";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Dhrumit26.PoseEstimation-TFLiteSwift";
 				PRODUCT_NAME = "Pose-TFLiteSwift";
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
@@ -698,7 +698,7 @@
 					"@executable_path/Frameworks",
 				);
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.tucan9389.PoseEstimation-TFLiteSwift";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Dhrumit26.PoseEstimation-TFLiteSwift";
 				PRODUCT_NAME = "Pose-TFLiteSwift";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

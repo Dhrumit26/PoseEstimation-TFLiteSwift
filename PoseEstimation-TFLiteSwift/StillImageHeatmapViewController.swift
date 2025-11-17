@@ -2,8 +2,8 @@
 //  StillImageHeatmapViewController.swift
 //  PoseEstimation-TFLiteSwift
 //
-//  Created by Doyoung Gwak on 2020/04/28.
-//  Copyright © 2020 Doyoung Gwak. All rights reserved.
+//  Created by Dhrumit26 on 2020/04/28.
+//  Copyright © 2020 Dhrumit26. All rights reserved.
 //
 
 import UIKit

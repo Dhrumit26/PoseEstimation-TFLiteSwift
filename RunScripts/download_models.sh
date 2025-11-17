@@ -14,7 +14,7 @@
 # limitations under the License.
 # ==============================================================================
 
-# updated by tucan9389 at 21.10.19
+# updated by Dhrumit26 at 21.10.19
 
 # Download TF Lite model from the internet if it does not exist.
 

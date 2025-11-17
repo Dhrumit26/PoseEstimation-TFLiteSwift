@@ -2,8 +2,8 @@
 //  HumanKeypoints.swift
 //  PoseEstimation-TFLiteSwift
 //
-//  Created by Doyoung Gwak on 2021/07/11.
-//  Copyright © 2021 Doyoung Gwak. All rights reserved.
+//  Created by Dhrumit26 on 2021/07/11.
+//  Copyright © 2021 Dhrumit26. All rights reserved.
 //
 
 import CoreGraphics
